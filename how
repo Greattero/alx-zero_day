@@ -1,0 +1,215 @@
+[33mcommit 48f75cbba697f3e11751ef34d476f72082d6d9e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 5d1bde3 d288ad8
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 08:21:04 2023 -0800
+
+    Merge branch 'update_script'
+    Cool, all my changes will be now part of the main branch, ready to be
+    deployed!
+
+[33mcommit d288ad845c909faf7e6bc054b643961baa150efb[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 16:18:18 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 5d1bde3dec28f169e40b2c5db341a075d866be2c[m
+Merge: 40c3adb 74f8926
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 08:15:03 2023 -0800
+
+    Merge branch 'update_script'
+
+[33mcommit 74f89265440c7521b9a1315d0481029ccd37e153[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 16:14:35 2023 +0000
+
+    Update README.md
+
+ 0x03-git/README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3f9d7c16a6dfa3fe74744af1a39a03dd591c4759[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 16:11:43 2023 +0000
+
+    Update README.md
+
+ 0x03-git/README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 40c3adb0c57090b0c586d25c397b705e2e590237[m
+Merge: f4ee73d e53eabe
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 07:59:47 2023 -0800
+
+    Merge branch 'update_script'
+
+[33mcommit f4ee73d6dafdbcd343920b7ba1e803b3a40c1a49[m
+Merge: 6ae2a6b 028d7f3
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 07:57:44 2023 -0800
+
+    Merge branch 'master' of https://github.com/Greattero/alx-zero_day
+
+[33mcommit 6ae2a6b69a8931c26f03a11cdea6708fdee2b13b[m
+Merge: 82ef337 3b12f6d
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 07:52:39 2023 -0800
+
+    Hot fix
+
+[33mcommit e53eabe3ef427571e4bcc174120872f7823f3059[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 15:47:55 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 63e0faa312374e2035428e62484ba7e17fd185be[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 15:46:43 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 028d7f373df1db5402b1df937ce815a09e2d30b7[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 15:45:49 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3d20c9925ec93b48741a4e2ac21833842d0dfcd5[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 15:44:22 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 82ef337f6ceff0990b2147da503e56e95ddf617d[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 15:03:12 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 9fa9ce489eb279773f2ded0438324a337b69f8a9[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 06:05:58 2023 -0800
+
+    How to be up to date in git
+
+ 0x03-git/up_to_date | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 685e9b9c7243ee787c0b6136d17a81098c0ba8ee[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 14:00:32 2023 +0000
+
+    Delete up_to_date
+
+ up_to_date | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit a130dd04038e0e9f60841957e630451f447a5b64[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 13:58:00 2023 +0000
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit e2f01861d02e00e6056658fe87bebc5093157bdd[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 13:53:56 2023 +0000
+
+    Update README.md
+
+ 0x03-git/README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 7a9212971436c759855771a09504667f72b1764c[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 05:51:28 2023 -0800
+
+    How to be up to date in git
+
+ up_to_date | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 9303018c075f0522671b8bc9c859ba7c3166c2f4[m
+Author: Foster Ametepey <122822016+Greattero@users.noreply.github.com>
+Date:   Tue Feb 7 12:33:47 2023 +0000
+
+    Update README.md
+
+ 0x03-git/README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit a0b858244a95aeb06ef210ed5e11f24d0564c597[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 04:30:17 2023 -0800
+
+    Hot fix
+
+ 0x03-git/bash/alx    | 2 [32m+[m[31m-[m
+ 0x03-git/js/index.js | 0
+ 0x03-git/js/main.js  | 0
+ 3 files changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3b12f6d6d8c7a187cc00651d98d5d4b852931ea1[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 04:21:07 2023 -0800
+
+    My personal work
+
+ 0x03-git/bash/98     | 0
+ 0x03-git/bash/alx    | 2 [32m+[m[31m-[m
+ 0x03-git/bash/school | 2 [32m+[m[31m-[m
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 5676b037335d0992a6094789a63dc8f50c6af5a8[m[33m ([m[1;32mcheckout[m[33m)[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 04:12:30 2023 -0800
+
+    Starting to code today, so cool
+
+ 0x03-git/bash/alx     | 2 [32m++[m
+ 0x03-git/bash/school  | 2 [32m++[m
+ 0x03-git/c/c_is_fun.c | 0
+ 0x03-git/js/index.js  | 0
+ 0x03-git/js/main.js   | 0
+ 5 files changed, 4 insertions(+)
+
+[33mcommit 93128fc5878e8fc0766bb6aff31a83bf38ae5d16[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 04:01:11 2023 -0800
+
+    My second commit
+
+ 0x03-git/README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit a88db2512c30cbf79e96bfe1ece29709471bd0ba[m
+Author: Foster Ametepey <fostericetwo@gmail.com>
+Date:   Tue Feb 7 03:29:32 2023 -0800
+
+    My first commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
